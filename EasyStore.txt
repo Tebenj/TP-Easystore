@@ -1,0 +1,24 @@
+Produits :
+PS5
+LED
+SSD
+Voiture
+
+Clients :
+Mathilde  Chevallier
+ID : 21
+
+Guy Perez
+ID : 124
+
+
+Commandes :
+Mathilde ,Chevallier,21.000000
+PS5,Playstation 5,15.000000,500.000000€
+
+
+PS5
+La commande est livrée
+
+
+
